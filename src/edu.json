@@ -1,0 +1,1013 @@
+{
+  "projects": {
+    "hasNext": true,
+    "nextProjectId": 31,
+    "project": [
+      {
+        "id": 10,
+        "organization": {
+          "id": 7,
+          "name": "Educare-Africa",
+          "ein": "93-1290101",
+          "addressLine1": "950 Airport Rd., Se # 102",
+          "addressLine2": "",
+          "city": "Albany",
+          "state": "Oregon",
+          "postal": "97322",
+          "iso3166CountryCode": "US",
+          "url": "http://www.orrpcv.peak.org/educare_africa.html",
+          "logoUrl": "https://www.globalgiving.org/pfil/organ/7/orglogo.gif",
+          "mission": "To improve living and learning conditions of students in rural Cameroon. In addition, to promote peace, cross-cultural understanding, love and unity of all people.",
+          "totalProjects": 1,
+          "activeProjects": 0,
+          "themes": { "theme": [{ "id": "edu", "name": "Education" }] },
+          "countries": {
+            "country": [{ "name": "Cameroon", "iso3166CountryCode": "CM" }]
+          },
+          "country": "United States"
+        },
+        "active": false,
+        "title": "Science Lab in a Rural High School in Cameroon",
+        "summary": "Encouraging students, including girls, to do sciences by providing a science lab in a rural high school. Science education would enable them to become doctors, teachers, and other professionals.",
+        "contactAddress": "950 Airport Rd., SE",
+        "contactAddress2": "# 102",
+        "contactCity": "Albany",
+        "contactState": "Oregon",
+        "contactPostal": "97322",
+        "contactCountry": "United States",
+        "contactUrl": "http://www.orrpcv.peak.org/educare_africa.html",
+        "projectLink": "https://www.globalgiving.org/projects/science-lab-in-a-rural-high-school-in-cameroon/",
+        "progressReportLink": "https://www.globalgiving.org/projects/science-lab-in-a-rural-high-school-in-cameroon/updates/",
+        "themeName": "Education",
+        "country": "Cameroon",
+        "iso3166CountryCode": "CM",
+        "region": "Africa",
+        "goal": 19870.0,
+        "funding": 400.0,
+        "remaining": 19470.0,
+        "numberOfDonations": 2,
+        "status": "funded",
+        "need": "This high school in Cameroon cannot offer advanced science classes because there is no lab. All science students from the area must seek admission in a larger town, where living is expensive (rent, water, electricity, cooking stove, food, etc.). With a lab,  hundreds of students would benefit directly each year. The entire community would benefit by more students staying in the village renting housing, purchasing food and other items.",
+        "longTermImpact": "The project would result in the first science lab in a high school in the area.",
+        "activities": "We will work with local groups, including the Parent Teacher Association to build classrooms and administrative offices.  Our partners in Cameroon would execute the plan and would construct the lab on the campus of Tatum High School.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/10/projdoc.pdf",
+        "imageLink": "https://www.globalgiving.org/pfil/10/pict.jpg",
+        "imageGallerySize": 1,
+        "approvedDate": "2003-05-20T15:49:08-04:00",
+        "image": {
+          "title": "Science Lab in a Rural High School in Cameroon",
+          "id": 0,
+          "imagelink": [
+            {
+              "url": "https://www.globalgiving.org/pfil/10/pict_grid1.jpg",
+              "size": "small"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/10/pict_thumbnail.jpg",
+              "size": "thumbnail"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/10/pict_med.jpg",
+              "size": "medium"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/10/pict_grid7.jpg",
+              "size": "large"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/10/pict_large.jpg",
+              "size": "extraLarge"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/10/pict_original.jpg",
+              "size": "original"
+            }
+          ]
+        },
+        "themes": {
+          "theme": [
+            { "id": "edu", "name": "Education" },
+            { "id": "housing", "name": "Safe Housing" }
+          ]
+        },
+        "countries": {
+          "country": [{ "name": "Cameroon", "iso3166CountryCode": "CM" }]
+        },
+        "type": "project"
+      },
+      {
+        "id": 12,
+        "organization": {
+          "id": 372,
+          "name": "Afghan Institute of Learning",
+          "ein": "38-3288402",
+          "addressLine1": "Afghan Institute of Learning",
+          "addressLine2": "c/o CHI, PO Box 1058",
+          "city": "Dearborn",
+          "state": "Michigan",
+          "postal": "48121",
+          "iso3166CountryCode": "US",
+          "url": "http://www.afghaninstituteoflearning.org",
+          "logoUrl": "https://www.globalgiving.org/pfil/organ/372/orglogo.jpg",
+          "mission": "The Afghan Institute of Learning (AIL) works to empower all Afghans who are needy, especially women and children, providing them the knowledge and skills to care for themselves. AIL is expanding access to quality education and healthcare through community based programming, enabling communities to develop the capacity of their people. The goal is to create a foundation of quality education and health systems throughout Afghanistan which meet the needs of local people now and in the future. AIL was founded by an Afghan woman and is run mainly by women, reaching thousands each year through health facilities, educational centers and training programs.",
+          "totalProjects": 111,
+          "activeProjects": 16,
+          "themes": {
+            "theme": [
+              { "id": "children", "name": "Child Protection" },
+              { "id": "climate", "name": "Climate Action" },
+              { "id": "democ", "name": "Peace and Reconciliation" },
+              { "id": "disaster", "name": "Disaster Recovery" },
+              { "id": "ecdev", "name": "Economic Growth" },
+              { "id": "edu", "name": "Education" },
+              { "id": "env", "name": "Ecosystem Restoration" },
+              { "id": "gender", "name": "Gender Equality" },
+              { "id": "health", "name": "Physical Health" },
+              { "id": "human", "name": "End Human Trafficking" },
+              { "id": "rights", "name": "Justice and Human Rights" },
+              { "id": "tech", "name": "Digital Literacy" },
+              { "id": "hunger", "name": "Food Security" },
+              { "id": "art", "name": "Arts and Culture" },
+              { "id": "covid-19", "name": "COVID-19" }
+            ]
+          },
+          "countries": {
+            "country": [{ "name": "Afghanistan", "iso3166CountryCode": "AF" }]
+          },
+          "country": "United States"
+        },
+        "active": false,
+        "title": "Women's Learning Center in Herat, Afghanistan",
+        "summary": "Empowering Afghan women through the provision of education and training opportunities as well as basic health services",
+        "contactAddress": "Creating Hope International",
+        "contactAddress2": "P. O. Box 1058",
+        "contactCity": "Dearborn",
+        "contactState": "Michigan",
+        "contactPostal": "48121",
+        "contactCountry": "United States",
+        "contactUrl": "http://www.creatinghope.org",
+        "projectLink": "https://www.globalgiving.org/projects/womens-learning-center-in-herat-afghanistan/",
+        "progressReportLink": "https://www.globalgiving.org/projects/womens-learning-center-in-herat-afghanistan/updates/",
+        "themeName": "Education",
+        "country": "Afghanistan",
+        "iso3166CountryCode": "AF",
+        "region": "Asia and Oceania",
+        "goal": 6600.0,
+        "funding": 735.0,
+        "remaining": 5865.0,
+        "numberOfDonations": 3,
+        "status": "funded",
+        "need": "Herat is the largest city in western Afghanistan and a main trade city for exports. No education has been available to women and girls in Herat for the last decade under the Taliban regime.  Recent patterns of civil strife in Afghanistan have destroyed about 95% of the infrastructure and services.  Established in September 2002, the Herat Women’s Learning Center serves about 425 women and children, with plans for service expansion during 2003.",
+        "longTermImpact": "This project will result in the increased education of Afghan women in the region.  The knowledge of income generating skills, as well as leadership skills will help these women to support themselves and their families.",
+        "activities": "This center offers teacher training, English, literacy, math, and computer classes. Skills like sewing and carpet weaving are also taught. Leadership and human rights classes teach women how to assert their rights in a culturally sensitive way.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/12/projdoc.doc",
+        "imageLink": "https://www.globalgiving.org/pfil/12/pict.jpg",
+        "imageGallerySize": 1,
+        "approvedDate": "2003-05-20T18:31:54-04:00",
+        "image": {
+          "title": "Women's Learning Center in Herat, Afghanistan",
+          "id": 0,
+          "imagelink": [
+            {
+              "url": "https://www.globalgiving.org/pfil/12/pict_grid1.jpg",
+              "size": "small"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/12/pict_thumbnail.jpg",
+              "size": "thumbnail"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/12/pict_med.jpg",
+              "size": "medium"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/12/pict_grid7.jpg",
+              "size": "large"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/12/pict_large.jpg",
+              "size": "extraLarge"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/12/pict_original.jpg",
+              "size": "original"
+            }
+          ]
+        },
+        "themes": { "theme": [{ "id": "edu", "name": "Education" }] },
+        "countries": {
+          "country": [{ "name": "Afghanistan", "iso3166CountryCode": "AF" }]
+        },
+        "type": "project"
+      },
+      {
+        "id": 13,
+        "organization": {
+          "id": 372,
+          "name": "Afghan Institute of Learning",
+          "ein": "38-3288402",
+          "addressLine1": "Afghan Institute of Learning",
+          "addressLine2": "c/o CHI, PO Box 1058",
+          "city": "Dearborn",
+          "state": "Michigan",
+          "postal": "48121",
+          "iso3166CountryCode": "US",
+          "url": "http://www.afghaninstituteoflearning.org",
+          "logoUrl": "https://www.globalgiving.org/pfil/organ/372/orglogo.jpg",
+          "mission": "The Afghan Institute of Learning (AIL) works to empower all Afghans who are needy, especially women and children, providing them the knowledge and skills to care for themselves. AIL is expanding access to quality education and healthcare through community based programming, enabling communities to develop the capacity of their people. The goal is to create a foundation of quality education and health systems throughout Afghanistan which meet the needs of local people now and in the future. AIL was founded by an Afghan woman and is run mainly by women, reaching thousands each year through health facilities, educational centers and training programs.",
+          "totalProjects": 111,
+          "activeProjects": 16,
+          "themes": {
+            "theme": [
+              { "id": "children", "name": "Child Protection" },
+              { "id": "climate", "name": "Climate Action" },
+              { "id": "democ", "name": "Peace and Reconciliation" },
+              { "id": "disaster", "name": "Disaster Recovery" },
+              { "id": "ecdev", "name": "Economic Growth" },
+              { "id": "edu", "name": "Education" },
+              { "id": "env", "name": "Ecosystem Restoration" },
+              { "id": "gender", "name": "Gender Equality" },
+              { "id": "health", "name": "Physical Health" },
+              { "id": "human", "name": "End Human Trafficking" },
+              { "id": "rights", "name": "Justice and Human Rights" },
+              { "id": "tech", "name": "Digital Literacy" },
+              { "id": "hunger", "name": "Food Security" },
+              { "id": "art", "name": "Arts and Culture" },
+              { "id": "covid-19", "name": "COVID-19" }
+            ]
+          },
+          "countries": {
+            "country": [{ "name": "Afghanistan", "iso3166CountryCode": "AF" }]
+          },
+          "country": "United States"
+        },
+        "active": false,
+        "title": "Women's Learning Center in Mir Bacha Kot",
+        "summary": "Empowering rural Afghan women through the provision of education and training opportunities as well as basic health services.",
+        "contactAddress": "Creating Hope International",
+        "contactAddress2": "P. O. Box 1058",
+        "contactCity": "Dearborn",
+        "contactState": "Michigan",
+        "contactPostal": "48121",
+        "contactCountry": "United States",
+        "contactUrl": "http://www.creatinghope.org",
+        "projectLink": "https://www.globalgiving.org/projects/educate-women-in-afghanistan/",
+        "progressReportLink": "https://www.globalgiving.org/projects/educate-women-in-afghanistan/updates/",
+        "themeName": "Education",
+        "country": "Afghanistan",
+        "iso3166CountryCode": "AF",
+        "region": "Asia and Oceania",
+        "goal": 44000.0,
+        "funding": 3435.0,
+        "remaining": 40565.0,
+        "numberOfDonations": 1,
+        "status": "funded",
+        "need": "Mir Bacha Kot is a rural community in Afghanistan, north of Kabul. No education has been available to women and girls in Mir Bacha Kot for the last decade under the Taliban regime.  Recent patterns of civil strife in Afghanistan have destroyed about 95% of its infrastructure and services. The Mir Bacha Kot Women's Learning Center is currently operating in homes.",
+        "longTermImpact": "This project will result in the increased education of Afghan women in the region.  The knowledge of income generating skills, as well as leadership skills will help these women to support themselves and their families.",
+        "activities": "This center offers teacher training, English, literacy, math, and computer classes. Skills like sewing and carpet weaving are also taught. Leadership and human rights classes teach women how to assert their rights in a culturally sensitive way.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/13/projdoc.doc",
+        "imageLink": "https://www.globalgiving.org/pfil/13/pict.jpg",
+        "imageGallerySize": 1,
+        "approvedDate": "2003-05-20T18:57:15-04:00",
+        "image": {
+          "title": "Women's Learning Center in Mir Bacha Kot",
+          "id": 0,
+          "imagelink": [
+            {
+              "url": "https://www.globalgiving.org/pfil/13/pict_grid1.jpg",
+              "size": "small"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/13/pict_thumbnail.jpg",
+              "size": "thumbnail"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/13/pict_med.jpg",
+              "size": "medium"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/13/pict_grid7.jpg",
+              "size": "large"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/13/pict_large.jpg",
+              "size": "extraLarge"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/13/pict_original.jpg",
+              "size": "original"
+            }
+          ]
+        },
+        "themes": { "theme": [{ "id": "edu", "name": "Education" }] },
+        "countries": {
+          "country": [{ "name": "Afghanistan", "iso3166CountryCode": "AF" }]
+        },
+        "type": "project"
+      },
+      {
+        "id": 14,
+        "organization": {
+          "id": 372,
+          "name": "Afghan Institute of Learning",
+          "ein": "38-3288402",
+          "addressLine1": "Afghan Institute of Learning",
+          "addressLine2": "c/o CHI, PO Box 1058",
+          "city": "Dearborn",
+          "state": "Michigan",
+          "postal": "48121",
+          "iso3166CountryCode": "US",
+          "url": "http://www.afghaninstituteoflearning.org",
+          "logoUrl": "https://www.globalgiving.org/pfil/organ/372/orglogo.jpg",
+          "mission": "The Afghan Institute of Learning (AIL) works to empower all Afghans who are needy, especially women and children, providing them the knowledge and skills to care for themselves. AIL is expanding access to quality education and healthcare through community based programming, enabling communities to develop the capacity of their people. The goal is to create a foundation of quality education and health systems throughout Afghanistan which meet the needs of local people now and in the future. AIL was founded by an Afghan woman and is run mainly by women, reaching thousands each year through health facilities, educational centers and training programs.",
+          "totalProjects": 111,
+          "activeProjects": 16,
+          "themes": {
+            "theme": [
+              { "id": "children", "name": "Child Protection" },
+              { "id": "climate", "name": "Climate Action" },
+              { "id": "democ", "name": "Peace and Reconciliation" },
+              { "id": "disaster", "name": "Disaster Recovery" },
+              { "id": "ecdev", "name": "Economic Growth" },
+              { "id": "edu", "name": "Education" },
+              { "id": "env", "name": "Ecosystem Restoration" },
+              { "id": "gender", "name": "Gender Equality" },
+              { "id": "health", "name": "Physical Health" },
+              { "id": "human", "name": "End Human Trafficking" },
+              { "id": "rights", "name": "Justice and Human Rights" },
+              { "id": "tech", "name": "Digital Literacy" },
+              { "id": "hunger", "name": "Food Security" },
+              { "id": "art", "name": "Arts and Culture" },
+              { "id": "covid-19", "name": "COVID-19" }
+            ]
+          },
+          "countries": {
+            "country": [{ "name": "Afghanistan", "iso3166CountryCode": "AF" }]
+          },
+          "country": "United States"
+        },
+        "active": false,
+        "title": "Women's Learning Centers in Kabul, Afghanistan",
+        "summary": "Empowering Afghan women through the provision of education and training opportunities as well as basic health services",
+        "contactAddress": "Creating Hope International",
+        "contactAddress2": "P. O. Box 1058",
+        "contactCity": "Dearborn",
+        "contactState": "Michigan",
+        "contactPostal": "48121",
+        "contactCountry": "United States",
+        "contactUrl": "http://www.creatinghope.org",
+        "projectLink": "https://www.globalgiving.org/projects/womens-learning-centers-in-kabul-afghanistan/",
+        "progressReportLink": "https://www.globalgiving.org/projects/womens-learning-centers-in-kabul-afghanistan/updates/",
+        "themeName": "Education",
+        "country": "Afghanistan",
+        "iso3166CountryCode": "AF",
+        "region": "Asia and Oceania",
+        "goal": 6600.0,
+        "funding": 0.0,
+        "remaining": 6600.0,
+        "numberOfDonations": 23,
+        "status": "retired",
+        "need": "Kabul is the capital of Afghanistan. No education has been available to women and girls in Kabul for the last decade under the Taliban regime.  Recent patterns of civil strife in Afghanistan have destroyed about 95% of the infrastructure and services.  The Kabul Women’s Learning Center serves about 2,000 women and children, with plans for service expansion during 2003.",
+        "longTermImpact": "This project will result in the increased education of Afghan women in the region.  The knowledge of income generating skills, as well as leadership skills will help these women to support themselves and their families.",
+        "activities": "This center offers teacher training, English, literacy, math, and computer classes. Skills like sewing and carpet weaving are also taught. Leadership and human rights classes teach women how to assert their rights in a culturally sensitive way.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/14/projdoc.doc",
+        "imageLink": "https://www.globalgiving.org/pfil/14/pict.jpg",
+        "imageGallerySize": 1,
+        "approvedDate": "2003-05-20T19:04:55-04:00",
+        "image": {
+          "title": "Women's Learning Centers in Kabul, Afghanistan",
+          "id": 0,
+          "imagelink": [
+            {
+              "url": "https://www.globalgiving.org/pfil/14/pict_grid1.jpg",
+              "size": "small"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/14/pict_thumbnail.jpg",
+              "size": "thumbnail"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/14/pict_med.jpg",
+              "size": "medium"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/14/pict_grid7.jpg",
+              "size": "large"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/14/pict_large.jpg",
+              "size": "extraLarge"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/14/pict_original.jpg",
+              "size": "original"
+            }
+          ]
+        },
+        "themes": { "theme": [{ "id": "edu", "name": "Education" }] },
+        "countries": {
+          "country": [{ "name": "Afghanistan", "iso3166CountryCode": "AF" }]
+        },
+        "type": "project"
+      },
+      {
+        "id": 15,
+        "organization": {
+          "id": 254,
+          "name": "Creating Hope International (CHI)",
+          "ein": "38-3288402",
+          "addressLine1": "Creating Hope International",
+          "addressLine2": "PO Box 1058",
+          "city": "Dearborn",
+          "state": "Michigan",
+          "postal": "48121",
+          "iso3166CountryCode": "US",
+          "url": "http://www.creatinghope.org",
+          "logoUrl": "https://www.globalgiving.org/pfil/organ/254/orglogo.jpg",
+          "mission": "Creating Hope International (CHI) was founded with the vision of bringing hope to victims of war, political unrest, and natural disasters through programs designed to help them rebuild their lives for a brighter tomorrow. CHI's mission is to empower grassroots organizations that provide education, training, and health care to needy people. CHI supports organizations that respond to community needs on an individual level, foster community participation and utilize culturally sensitive education and training.",
+          "totalProjects": 173,
+          "activeProjects": 6,
+          "themes": {
+            "theme": [
+              { "id": "children", "name": "Child Protection" },
+              { "id": "ecdev", "name": "Economic Growth" },
+              { "id": "edu", "name": "Education" },
+              { "id": "gender", "name": "Gender Equality" },
+              { "id": "human", "name": "End Human Trafficking" },
+              { "id": "tech", "name": "Digital Literacy" }
+            ]
+          },
+          "countries": {
+            "country": [
+              { "name": "Afghanistan", "iso3166CountryCode": "AF" },
+              { "name": "India", "iso3166CountryCode": "IN" },
+              { "name": "United States", "iso3166CountryCode": "US" }
+            ]
+          },
+          "country": "United States"
+        },
+        "active": false,
+        "title": "Afghan Women's Learning Centers in Peshawar",
+        "summary": "Empowering Afghan women in refugee camps in Peshawar through the provision of education and training opportunities as well as basic health services.",
+        "contactAddress": "Creating Hope International",
+        "contactAddress2": "P. O. Box 1058",
+        "contactCity": "Dearborn",
+        "contactState": "Michigan",
+        "contactPostal": "48121",
+        "contactCountry": "United States",
+        "contactUrl": "http://www.creatinghope.org",
+        "projectLink": "https://www.globalgiving.org/projects/afghan-womens-learning-centers-in-peshawar/",
+        "progressReportLink": "https://www.globalgiving.org/projects/afghan-womens-learning-centers-in-peshawar/updates/",
+        "themeName": "Education",
+        "country": "Pakistan",
+        "iso3166CountryCode": "PK",
+        "region": "Asia and Oceania",
+        "goal": 5500.0,
+        "funding": 5695.83,
+        "remaining": 0.0,
+        "numberOfDonations": 47,
+        "status": "funded",
+        "need": "After the invasion of Afghanistan by Soviet troops in 1979, approximately 8 million people became refugees in Pakistan and Iran. Many relocated in the camps of Pakistan's Northwest frontier Province. These events, and more recent patterns of civil strife in Afghanistan, have completely devastated educational opportunities for Afghans, particularly girls.",
+        "longTermImpact": "This project will result in the increased education of Afghan women in the region.  The knowledge of income generating skills, as well as leadership skills will help these women to support themselves and their families.",
+        "activities": "This center offers teacher training, English, literacy, math, and computer classes. Skills like sewing and carpet weaving are also taught. Leadership and human rights classes teach women how to assert their rights in a culturally sensitive way.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/15/projdoc.doc",
+        "imageLink": "https://www.globalgiving.org/pfil/15/pict.jpg",
+        "imageGallerySize": 1,
+        "approvedDate": "2003-05-20T19:11:57-04:00",
+        "image": {
+          "title": "Afghan Women's Learning Centers in Peshawar",
+          "id": 0,
+          "imagelink": [
+            {
+              "url": "https://www.globalgiving.org/pfil/15/pict_grid1.jpg",
+              "size": "small"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/15/pict_thumbnail.jpg",
+              "size": "thumbnail"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/15/pict_med.jpg",
+              "size": "medium"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/15/pict_grid7.jpg",
+              "size": "large"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/15/pict_large.jpg",
+              "size": "extraLarge"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/15/pict_original.jpg",
+              "size": "original"
+            }
+          ]
+        },
+        "themes": {
+          "theme": [
+            { "id": "edu", "name": "Education" },
+            { "id": "refugee", "name": "Refugee Rights" }
+          ]
+        },
+        "countries": {
+          "country": [{ "name": "Pakistan", "iso3166CountryCode": "PK" }]
+        },
+        "type": "project"
+      },
+      {
+        "id": 17,
+        "organization": {
+          "id": 254,
+          "name": "Creating Hope International (CHI)",
+          "ein": "38-3288402",
+          "addressLine1": "Creating Hope International",
+          "addressLine2": "PO Box 1058",
+          "city": "Dearborn",
+          "state": "Michigan",
+          "postal": "48121",
+          "iso3166CountryCode": "US",
+          "url": "http://www.creatinghope.org",
+          "logoUrl": "https://www.globalgiving.org/pfil/organ/254/orglogo.jpg",
+          "mission": "Creating Hope International (CHI) was founded with the vision of bringing hope to victims of war, political unrest, and natural disasters through programs designed to help them rebuild their lives for a brighter tomorrow. CHI's mission is to empower grassroots organizations that provide education, training, and health care to needy people. CHI supports organizations that respond to community needs on an individual level, foster community participation and utilize culturally sensitive education and training.",
+          "totalProjects": 173,
+          "activeProjects": 6,
+          "themes": {
+            "theme": [
+              { "id": "children", "name": "Child Protection" },
+              { "id": "ecdev", "name": "Economic Growth" },
+              { "id": "edu", "name": "Education" },
+              { "id": "gender", "name": "Gender Equality" },
+              { "id": "human", "name": "End Human Trafficking" },
+              { "id": "tech", "name": "Digital Literacy" }
+            ]
+          },
+          "countries": {
+            "country": [
+              { "name": "Afghanistan", "iso3166CountryCode": "AF" },
+              { "name": "India", "iso3166CountryCode": "IN" },
+              { "name": "United States", "iso3166CountryCode": "US" }
+            ]
+          },
+          "country": "United States"
+        },
+        "active": false,
+        "title": "Founding an Afghan Women's University",
+        "summary": "Establishing Gawhar Shad University in Peshawar, Pakistan to provide post-secondary education to refugee Afghan women",
+        "contactAddress": "Creating Hope International",
+        "contactAddress2": "P. O. Box 1058",
+        "contactCity": "Dearborn",
+        "contactState": "Michigan",
+        "contactPostal": "48121",
+        "contactCountry": "United States",
+        "contactUrl": "http://www.creatinghope.org",
+        "projectLink": "https://www.globalgiving.org/projects/founding-an-afghan-womens-university/",
+        "progressReportLink": "https://www.globalgiving.org/projects/founding-an-afghan-womens-university/updates/",
+        "themeName": "Education",
+        "country": "Pakistan",
+        "iso3166CountryCode": "PK",
+        "region": "Asia and Oceania",
+        "goal": 5500.0,
+        "funding": 1978.0,
+        "remaining": 3522.0,
+        "numberOfDonations": 52,
+        "status": "funded",
+        "need": "Due to civil strife in Afghanistan, educational systems for Afghan women have been destroyed. In September 2002, Gawhar Shad University opened in Pakistan to respond to the lack of post-secondary educational opportunities for Afghan women who are high school graduates. Students come from Kabul, Herat, and other cities in Afghanistan.",
+        "longTermImpact": "Afghans with skills in Computers and Math are needed to help rebuild the country. Graduates of these programs will be able to work in these fields.",
+        "activities": "Creating Hope and the Afghan Institute of Learning are expanding  University curriculum for Afghan women, and post-secondary courses to train teachers and health care workers.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/17/projdoc.doc",
+        "imageLink": "https://www.globalgiving.org/pfil/17/pict.jpg",
+        "imageGallerySize": 1,
+        "approvedDate": "2003-05-20T19:47:15-04:00",
+        "image": {
+          "title": "Founding an Afghan Women's University",
+          "id": 0,
+          "imagelink": [
+            {
+              "url": "https://www.globalgiving.org/pfil/17/pict_grid1.jpg",
+              "size": "small"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/17/pict_thumbnail.jpg",
+              "size": "thumbnail"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/17/pict_med.jpg",
+              "size": "medium"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/17/pict_grid7.jpg",
+              "size": "large"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/17/pict_large.jpg",
+              "size": "extraLarge"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/17/pict_original.jpg",
+              "size": "original"
+            }
+          ]
+        },
+        "themes": {
+          "theme": [
+            { "id": "edu", "name": "Education" },
+            { "id": "refugee", "name": "Refugee Rights" }
+          ]
+        },
+        "countries": {
+          "country": [{ "name": "Pakistan", "iso3166CountryCode": "PK" }]
+        },
+        "type": "project"
+      },
+      {
+        "id": 20,
+        "organization": {
+          "id": 11,
+          "name": "Samadhan",
+          "addressLine1": "SAMADHAN'S HUMAN RESOURCE CENTER Pocket 2, Sector 2,",
+          "addressLine2": "Dwarka",
+          "city": "New Delhi",
+          "state": "Delhi",
+          "postal": "110075",
+          "iso3166CountryCode": "IN",
+          "url": "http://www.samadhanindia.org",
+          "logoUrl": "https://www.globalgiving.org/pfil/organ/11/orglogo.jpg",
+          "mission": ".MISSION STATEMENT: \"To establish an infrastructure of accessible services for persons with intellectual disability living in poverty using as far as possible manpower and resources available within target communities, with active community participation, leading to an inclusive society\"",
+          "totalProjects": 18,
+          "activeProjects": 1,
+          "themes": {
+            "theme": [
+              { "id": "children", "name": "Child Protection" },
+              { "id": "ecdev", "name": "Economic Growth" },
+              { "id": "edu", "name": "Education" },
+              { "id": "gender", "name": "Gender Equality" },
+              { "id": "health", "name": "Physical Health" },
+              { "id": "rights", "name": "Justice and Human Rights" }
+            ]
+          },
+          "countries": {
+            "country": [{ "name": "India", "iso3166CountryCode": "IN" }]
+          },
+          "country": "India"
+        },
+        "active": false,
+        "title": "Accessible education for poor disabled children",
+        "summary": "An inclusive education project for disabled and normal children living in poverty provided from our own centers and creating demonstration models in local government schools for possible replication.\n\nImportant Notice about Projects in India: We expect that there will be significant delays in getting funds to this project due to new regulatory requirements that impact GlobalGiving's ability to disburse to Indian-banked  organizations. GlobalGiving is working hard to address the issue, but there is a chance that we will be unable to disburse funds to this project. If we cannot disburse funds, donations to this project may be reallocated to another organization per our terms and conditions.",
+        "contactAddress": "A.59.Shivalik",
+        "contactCity": "New Delhi",
+        "contactState": "",
+        "contactPostal": "11 0017",
+        "contactCountry": "India",
+        "contactUrl": "http://www.samadhanindia.org",
+        "projectLink": "https://www.globalgiving.org/projects/accessible-education-for-poor-disabled-children/",
+        "progressReportLink": "https://www.globalgiving.org/projects/accessible-education-for-poor-disabled-children/updates/",
+        "themeName": "Education",
+        "country": "India",
+        "iso3166CountryCode": "IN",
+        "region": "Asia and Oceania",
+        "goal": 25925.0,
+        "funding": 1698.4,
+        "remaining": 24226.6,
+        "numberOfDonations": 55,
+        "status": "funded",
+        "need": "Although the government mandates the inclusive concept, it is not happening. In low-income areas where children have access to free schools run by the Delhi Government, disabled children are admitted but have no access to therapeutic resources they need nor quality academics, since teachers are not trained to deal with them.   Most private schools refuse them admission. Beneficiaries will be the primary school population in about 2,000 government schools.",
+        "longTermImpact": "To see that all school age children with a physical or mental disability living in poor communities have access to appropriate education designed to meet their specific needs so that every child has a RIGHT to education.",
+        "activities": "We offer our own facilities and share our resources for in-service training for government-run school staff so they can implement disability-friendly, inclusive curriculum and practices.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/20/projdoc.doc",
+        "imageLink": "https://www.globalgiving.org/pfil/20/pict.jpg",
+        "imageGallerySize": 1,
+        "approvedDate": "2003-05-21T15:00:54-04:00",
+        "image": {
+          "title": "Accessible education for poor disabled children",
+          "id": 0,
+          "imagelink": [
+            {
+              "url": "https://www.globalgiving.org/pfil/20/pict_grid1.jpg",
+              "size": "small"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/20/pict_thumbnail.jpg",
+              "size": "thumbnail"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/20/pict_med.jpg",
+              "size": "medium"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/20/pict_grid7.jpg",
+              "size": "large"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/20/pict_large.jpg",
+              "size": "extraLarge"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/20/pict_original.jpg",
+              "size": "original"
+            }
+          ]
+        },
+        "notice": "Important Notice about Projects in India: We expect that there will be significant delays in getting funds to this project due to new regulatory requirements that impact GlobalGiving's ability to disburse to Indian-banked  organizations. GlobalGiving is working hard to address the issue, but there is a chance that we will be unable to disburse funds to this project. If we cannot disburse funds, donations to this project may be reallocated to another organization per our terms and conditions.",
+        "themes": {
+          "theme": [
+            { "id": "edu", "name": "Education" },
+            { "id": "disability", "name": "Disability Rights" }
+          ]
+        },
+        "countries": {
+          "country": [{ "name": "India", "iso3166CountryCode": "IN" }]
+        },
+        "type": "project"
+      },
+      {
+        "id": 22,
+        "organization": {
+          "id": 254,
+          "name": "Creating Hope International (CHI)",
+          "ein": "38-3288402",
+          "addressLine1": "Creating Hope International",
+          "addressLine2": "PO Box 1058",
+          "city": "Dearborn",
+          "state": "Michigan",
+          "postal": "48121",
+          "iso3166CountryCode": "US",
+          "url": "http://www.creatinghope.org",
+          "logoUrl": "https://www.globalgiving.org/pfil/organ/254/orglogo.jpg",
+          "mission": "Creating Hope International (CHI) was founded with the vision of bringing hope to victims of war, political unrest, and natural disasters through programs designed to help them rebuild their lives for a brighter tomorrow. CHI's mission is to empower grassroots organizations that provide education, training, and health care to needy people. CHI supports organizations that respond to community needs on an individual level, foster community participation and utilize culturally sensitive education and training.",
+          "totalProjects": 173,
+          "activeProjects": 6,
+          "themes": {
+            "theme": [
+              { "id": "children", "name": "Child Protection" },
+              { "id": "ecdev", "name": "Economic Growth" },
+              { "id": "edu", "name": "Education" },
+              { "id": "gender", "name": "Gender Equality" },
+              { "id": "human", "name": "End Human Trafficking" },
+              { "id": "tech", "name": "Digital Literacy" }
+            ]
+          },
+          "countries": {
+            "country": [
+              { "name": "Afghanistan", "iso3166CountryCode": "AF" },
+              { "name": "India", "iso3166CountryCode": "IN" },
+              { "name": "United States", "iso3166CountryCode": "US" }
+            ]
+          },
+          "country": "United States"
+        },
+        "active": false,
+        "title": "Scholarships for Tibetan Bon Refugee children",
+        "summary": "Expanding educational opportunities for Tibetan Bon refugee children in Dolanji, India through scholarships.",
+        "contactAddress": "Creating Hope International",
+        "contactAddress2": "P. O. Box 1058",
+        "contactCity": "Dearborn",
+        "contactState": "Michigan",
+        "contactPostal": "48121",
+        "contactCountry": "United States",
+        "contactUrl": "http://www.creatinghope.org",
+        "projectLink": "https://www.globalgiving.org/projects/education-in-asia/",
+        "progressReportLink": "https://www.globalgiving.org/projects/education-in-asia/updates/",
+        "themeName": "Education",
+        "country": "India",
+        "iso3166CountryCode": "IN",
+        "region": "Asia and Oceania",
+        "goal": 3300.0,
+        "funding": 3300.0,
+        "remaining": 0.0,
+        "numberOfDonations": 25,
+        "status": "funded",
+        "need": "The Bon are a minority Tibetan ethnic group that fled to India when the Chinese invaded Tibet in 1959. In 1968, the Bon established a community in Dolanji, India on donated land. Today, 75 Tibetan Bon families (including 300 children) are settled there. The community has an orphanage, children's hostel, school (to the 9th class), health center and community farm.  Students wishing to continue their studies need scholarships to attend school outside of the community.",
+        "longTermImpact": "CHI is working with Bon leaders to make secondary education possible for the community's children through scholarships. This project will allow 10 children to attend school for one year.",
+        "activities": "CHI has helped the leaders of the Bon community write grants to improve their water, sanitary, health, education and living condition. CHI has also provided funds to purchase a milk cow and improve water and living conditions.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/22/projdoc.doc",
+        "imageLink": "https://www.globalgiving.org/pfil/22/pict.jpg",
+        "imageGallerySize": 1,
+        "approvedDate": "2003-05-21T15:35:27-04:00",
+        "image": {
+          "title": "Scholarships for Tibetan Bon Refugee children",
+          "id": 0,
+          "imagelink": [
+            {
+              "url": "https://www.globalgiving.org/pfil/22/pict_grid1.jpg",
+              "size": "small"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/22/pict_thumbnail.jpg",
+              "size": "thumbnail"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/22/pict_med.jpg",
+              "size": "medium"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/22/pict_grid7.jpg",
+              "size": "large"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/22/pict_large.jpg",
+              "size": "extraLarge"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/22/pict_original.jpg",
+              "size": "original"
+            }
+          ]
+        },
+        "themes": {
+          "theme": [
+            { "id": "edu", "name": "Education" },
+            { "id": "refugee", "name": "Refugee Rights" },
+            { "id": "housing", "name": "Safe Housing" }
+          ]
+        },
+        "countries": {
+          "country": [{ "name": "India", "iso3166CountryCode": "IN" }]
+        },
+        "type": "project"
+      },
+      {
+        "id": 23,
+        "organization": {
+          "id": 12,
+          "name": "Ruchika Social Service Organisation",
+          "addressLine1": "3731-A, Sriram Nagar, Samantarapur, Old Town,",
+          "addressLine2": "",
+          "city": "Bhubaneswar",
+          "state": "Odisha",
+          "postal": "751002",
+          "iso3166CountryCode": "IN",
+          "url": "http://www.ruchika.org",
+          "logoUrl": "https://www.globalgiving.org/pfil/organ/12/orglogo.jpg",
+          "mission": "The mission is to help the children deprived of normal conditions of life and create a society free from child labor, exploitation and abandonment. As the development of these children is worthwhile when they become active participants and positive contributors to their communities, it is aimed to provide joyful and innovative  education, health care, supplementary nutrition, recreation, counseling, vocational training, rehabilitation and repatriation services to these children.",
+          "totalProjects": 8,
+          "activeProjects": 4,
+          "themes": {
+            "theme": [
+              { "id": "children", "name": "Child Protection" },
+              { "id": "edu", "name": "Education" },
+              { "id": "env", "name": "Ecosystem Restoration" },
+              { "id": "gender", "name": "Gender Equality" },
+              { "id": "health", "name": "Physical Health" },
+              { "id": "rights", "name": "Justice and Human Rights" }
+            ]
+          },
+          "countries": {
+            "country": [{ "name": "India", "iso3166CountryCode": "IN" }]
+          },
+          "country": "India"
+        },
+        "active": false,
+        "title": "Alternative school for railway platform children",
+        "summary": "Taking the school to the street - advocating for and working with children on issues such as child rights, health care, and nutrition.\n\nImportant Notice about Projects in India: We expect that there will be significant delays in getting funds to this project due to new regulatory requirements that impact GlobalGiving's ability to disburse to Indian-banked  organizations. GlobalGiving is working hard to address the issue, but there is a chance that we will be unable to disburse funds to this project. If we cannot disburse funds, donations to this project may be reallocated to another organization per our terms and conditions.",
+        "contactAddress": "G-6 Ganga Nagar",
+        "contactAddress2": "Unit-VI  Bhubaneswar",
+        "contactCity": "Bhubaneswar",
+        "contactState": "Orissa",
+        "contactPostal": "751001",
+        "contactCountry": "India",
+        "contactUrl": "",
+        "projectLink": "https://www.globalgiving.org/projects/educate-children-in-india/",
+        "progressReportLink": "https://www.globalgiving.org/projects/educate-children-in-india/updates/",
+        "themeName": "Education",
+        "country": "India",
+        "iso3166CountryCode": "IN",
+        "region": "Asia and Oceania",
+        "goal": 5500.0,
+        "funding": 3502.4,
+        "remaining": 1997.6,
+        "numberOfDonations": 3,
+        "status": "funded",
+        "need": "This project will affect around 400 marginalized children living on and around the railway station who have no access to school. The barriers to education for such children arise both from the external environment and from the children's own unique predicament of deprivation. These children are not merely out of school; the very concept of education is unknown to them.",
+        "longTermImpact": "Outcomes of this project are to make schooling a habit; motivate parents to take charge; make education attainable, useful, and enjoyable for every child; and make children conscious of the role of education in upward social mobility.",
+        "activities": "To set up an extensive network of schools, vocational training programs, shelters, non-formal education centers, a crisis help-line, and scholarships with the aim to assist children in claiming their right to education.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/23/projdoc.doc",
+        "imageLink": "https://www.globalgiving.org/pfil/23/pict.jpg",
+        "imageGallerySize": 1,
+        "approvedDate": "2003-05-21T15:46:35-04:00",
+        "image": {
+          "title": "Alternative school for railway platform children",
+          "id": 0,
+          "imagelink": [
+            {
+              "url": "https://www.globalgiving.org/pfil/23/pict_grid1.jpg",
+              "size": "small"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/23/pict_thumbnail.jpg",
+              "size": "thumbnail"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/23/pict_med.jpg",
+              "size": "medium"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/23/pict_grid7.jpg",
+              "size": "large"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/23/pict_large.jpg",
+              "size": "extraLarge"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/23/pict_original.jpg",
+              "size": "original"
+            }
+          ]
+        },
+        "notice": "Important Notice about Projects in India: We expect that there will be significant delays in getting funds to this project due to new regulatory requirements that impact GlobalGiving's ability to disburse to Indian-banked  organizations. GlobalGiving is working hard to address the issue, but there is a chance that we will be unable to disburse funds to this project. If we cannot disburse funds, donations to this project may be reallocated to another organization per our terms and conditions.",
+        "themes": { "theme": [{ "id": "edu", "name": "Education" }] },
+        "countries": {
+          "country": [{ "name": "India", "iso3166CountryCode": "IN" }]
+        },
+        "type": "project"
+      },
+      {
+        "id": 27,
+        "organization": {
+          "id": 13,
+          "name": "Program for the Training of Bilingual Teachers",
+          "addressLine1": "Abtao 1715",
+          "addressLine2": "",
+          "city": "Iquitos",
+          "state": "Maynas",
+          "postal": "591",
+          "iso3166CountryCode": "PE",
+          "url": "http://www.formabiap.org",
+          "logoUrl": "https://www.globalgiving.org/pfil/organ/13/orglogo.gif",
+          "mission": "To form social actors able to design, to implement and to manage innovative proposals according to the necessities and aspirations of the PPII.  To promote the exchange of knowledge, practices and values of the PPII with other cultural traditions from the intercultural perspective, for the sustainable development of the Amazon.",
+          "totalProjects": 1,
+          "activeProjects": 0,
+          "themes": { "theme": [{ "id": "edu", "name": "Education" }] },
+          "countries": {
+            "country": [{ "name": "Peru", "iso3166CountryCode": "PE" }]
+          },
+          "country": "Peru"
+        },
+        "active": false,
+        "title": "Intercultural Bilingual Education-preschool level",
+        "summary": "Elaboration of the policies of the Curriculum for the education of indigenous women in the specialty of intercultural bilingual teachers for preschool level.",
+        "contactAddress": "Abtao 1715.",
+        "contactCity": "Iquitos",
+        "contactState": "Maynas",
+        "contactPostal": "591",
+        "contactCountry": "Peru",
+        "contactUrl": "http://www.formabiap.org",
+        "projectLink": "https://www.globalgiving.org/projects/bilingual-education-peru/",
+        "progressReportLink": "https://www.globalgiving.org/projects/bilingual-education-peru/updates/",
+        "themeName": "Education",
+        "country": "Peru",
+        "iso3166CountryCode": "PE",
+        "region": "South/Central America and the Caribbean",
+        "goal": 10500.0,
+        "funding": 840.0,
+        "remaining": 9660.0,
+        "numberOfDonations": 30,
+        "status": "funded",
+        "need": "The first five years is fundamental for the development of children. At this age, children develop their basic personality traits as well as the capacities and attitudes that enable them to encounter the future lessons. This project intends to improve the education for preschool level. It will benefit the indigenous women who will be formed as Intercultural Bilingual Preschool Teachers and indirectly it will benefit the children of the indigenous communities of the Amazon.",
+        "longTermImpact": "The education for preschool-level indigenous children of the Peruvian Amazon will be improved.",
+        "activities": "To elaborate the policy of the Curriculum for the teacher training program of the Intercultural Bilingual Preschool Teachers based on the specialty for the educational development of the indigenous people of the Peruvian Amazon.",
+        "additionalDocumentation": "https://www.globalgiving.org/pfil/27/projdoc.doc",
+        "imageLink": "https://www.globalgiving.org/pfil/27/pict.jpg",
+        "imageGallerySize": 1,
+        "approvedDate": "2003-05-22T17:26:50-04:00",
+        "image": {
+          "title": "Intercultural Bilingual Education-preschool level",
+          "id": 0,
+          "imagelink": [
+            {
+              "url": "https://www.globalgiving.org/pfil/27/pict_grid1.jpg",
+              "size": "small"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/27/pict_thumbnail.jpg",
+              "size": "thumbnail"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/27/pict_med.jpg",
+              "size": "medium"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/27/pict_grid7.jpg",
+              "size": "large"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/27/pict_large.jpg",
+              "size": "extraLarge"
+            },
+            {
+              "url": "https://www.globalgiving.org/pfil/27/pict_original.jpg",
+              "size": "original"
+            }
+          ]
+        },
+        "themes": { "theme": [{ "id": "edu", "name": "Education" }] },
+        "countries": {
+          "country": [{ "name": "Peru", "iso3166CountryCode": "PE" }]
+        },
+        "type": "project"
+      }
+    ],
+    "numberFound": 10098
+  }
+}
